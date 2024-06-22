@@ -1,4 +1,4 @@
-[![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
+![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
 
 <h1 align="center">Hi 👋, I'm Pedro Miguel Nunes</h1>
 <h3 align="center">< J U N I O R _ F U L L S T A C K _ D E V E L O P E R ></h3>
